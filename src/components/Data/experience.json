@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "role": "Software Manual & Automation QA Engineer - Internship",
+    "organisation": "Viacom18 - JioCinema",
+    "startDate": "Oct, 2023",
+    "endDate": "Jun, 2024",
+    "location": "Bengaluru, Karnataka",
+    "experiences": [
+      "Built automated test suites for JioCinema using Selenium and Java",
+      "Managed live incidents through Jira to ensure quick issue resolution",
+      "Contributed to game testing for live cricket matches",
+      "Used Git and GitHub for smooth code management and collaboration"
+    ],
+    "imageSrc": "company/viacom 18.png"
+  },
+  {
+    "id": 2,
+    "role": "General Programmer Trainee (QA Engineer)",
+    "organisation": "Cognizant Technology Solutions",
+    "startDate": "Mar, 2022",
+    "endDate": "Sep, 2023",
+    "location": "Bengaluru, Karnataka",
+    "experiences": [
+      "Developed automation frameworks using Java, Selenium, Maven, TestNG.",
+      "Performed manual and automated testing for functional Testing."
+    ],
+    "imageSrc": "company/cog.png"
+  }
+  
+]

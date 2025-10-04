@@ -1,0 +1,42 @@
+[
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "MYSQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "SELENIUM",
+    "imageSrc": "skills/selenium.png"
+  },
+  {
+    "title": "DSA",
+    "imageSrc": "skills/dsa.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"HTML",
+    "imageSrc":"skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "JENKINS",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  }
+]
